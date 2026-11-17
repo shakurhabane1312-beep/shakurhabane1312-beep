@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi, I'm Shakur
 
-<!--
-**shakurhabane1312-beep/shakurhabane1312-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS & Data Science student at the University of Wisconsin-Madison (class of 2029), co-founder of MAS Elevate Consulting, and aspiring AI engineer.
 
-Here are some ideas to get you started:
+### What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building data, ML, and AI systems end to end, from SQL pipelines to LLM-powered tools.
+
+Co-running MAS Elevate Consulting, which builds AI automation systems and web apps for small businesses.
+
+### Featured projects
+
+[FinSight](https://github.com/shakurhabane1312-beep/finsight): end-to-end Data & AI pipeline on synthetic banking data (SQL, scikit-learn, LLM triage, governed text-to-SQL agent).
+
+[UW Course Review Analyzer](https://github.com/shakurhabane1312-beep/uw-course-analyzer): pandas pipeline analyzing what drives student satisfaction in UW-Madison courses.
+
+### Tech
+
+Python · SQL · Java · JavaScript · React · Node.js · Next.js · pandas · scikit-learn · Git
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/shakur-habane-47b888380)
